@@ -1,9 +1,4 @@
 
-<h1>Profile</h1>
-<h4>Email: leeseh0806@gmail.com</h4>
-
-<h3>Stacks</h3>
-
 <p>
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-000?logo=JavaScript&logoColor=F7DF1E">
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-000?logo=typescript&logoColor=3178C6">
@@ -15,7 +10,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 <div align="center">
 
   <div>
