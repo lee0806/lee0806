@@ -1,16 +1,36 @@
-## Hi there 👋
 
-<!--
-**lee0806/lee0806** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>Profile</h1>
+<h4>Email: leeseh0806@gmail.com</h4>
 
-Here are some ideas to get you started:
+<h3>Stacks</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-000?logo=JavaScript&logoColor=F7DF1E">
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-000?logo=typescript&logoColor=3178C6">
+  <img alt="TailwindCSS" src="https://img.shields.io/badge/TailwindCSS-000?logo=tailwindcss&logoColor=06B6D4">
+  <img alt="React" src="https://img.shields.io/badge/React-000?logo=react">
+  <img alt="Python" src="https://img.shields.io/badge/Python-000?logo=python">
+  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-000?logo=pytorch">
+</p>
+
+---
+
+## 📊 GitHub Stats
+<div align="center">
+
+  <div>
+  <!-- 기본 스탯 -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=lee0806&show_icons=true&include_orgs=true&theme=radical" 
+    alt="lee0806's GitHub stats" 
+    height="150"
+  />
+  <!-- 언어 비율 -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lee0806&layout=compact&theme=radical" 
+    alt="Top Langs"
+    height="150"
+  />
+  </div>
+
+</div>
