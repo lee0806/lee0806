@@ -18,7 +18,7 @@
   <div>
   <!-- 기본 스탯 -->
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=lee0806&show_icons=true&include_orgs=true&theme=radical&count_private=true" 
+    src="https://github-readme-stats.vercel.app/api?username=lee0806&show_icons=true&include_orgs=true&theme=radical&count_private=true&hide=stars,contribs" 
     alt="lee0806's GitHub stats" 
     height="150"
   />
