@@ -1,5 +1,10 @@
 # 👋 Hi
-React 기반 웹과 모바일 프론트엔드를 설계·구현하는 개발자입니다.  
+React 기반 웹과 모바일 기반의 화면을 설계·구현하는 개발자입니다.
+
+email : leeseh0806@gmail.com
+
+github : https://github.com/lee0806
+
 
 ---
 
