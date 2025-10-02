@@ -28,7 +28,7 @@ React 기반 웹과 모바일 프론트엔드를 설계·구현하는 개발자�
 - **doRan — 공감이 습관이 되는 커뮤니티 (진행중)**  
   ➜ [View Repo](https://github.com/lee0806/doRan)
   
-- **codingTest**  
+- **codingTest (코딩 테스트)**  
   ➜ [View Repo](https://github.com/lee0806/codingTest)
 
 ---
