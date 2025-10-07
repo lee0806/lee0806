@@ -16,7 +16,7 @@
     <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=000" />
   </p>
   
-  ---
+
   
   ## 🚀 Featured Projects
   <a href="https://github.com/Helios-CCTV" target="_blank">
@@ -44,7 +44,6 @@
    <strong>codingTest (코딩 테스트)</strong>
   </a>
   
-  ---
 
   ## 📈 GitHub Stats
   <div align="center">
@@ -59,9 +58,9 @@
       height="150"
     />
   </div>
-  
-  ---
-  ## Me
+
+  <br>
+  <br>
 
   <a href="mailto:leeseh0806@gmail.com">
   <img alt="Gmail" src="https://img.shields.io/badge/gmail-EA4335?logo=gmail&logoColor=white">
