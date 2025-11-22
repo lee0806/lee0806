@@ -1,10 +1,9 @@
 <div align="center">
-  
-  # 👋 Hi I'm Seyun
 
-  <br>
 
-  ## 📈 GitHub Stats
+  <h2 align="left">
+    GitHub Stats
+  </h2>
   <div align="center">
     <img 
       src="https://github-readme-stats.vercel.app/api?username=lee0806&show_icons=true&theme=transparent&count_private=true&hide=stars,contribs" 
@@ -19,8 +18,10 @@
   </div>
 
   <br>
-
-  ## Tech Stack
+  
+  <h2 align="left">
+    Tech Stack
+  </h2>
   <p>
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" />
     <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=000" />
@@ -34,8 +35,11 @@
   </p>
 
   <br>
-  
-  ## 🚀 Featured Projects
+
+  <h2 align="left">
+    Featured Projects
+  </h2>
+
   <a href="https://github.com/Helios-CCTV" target="_blank">
    <strong>CCTV 영상 데이터를 이용한 실시간 도로 노후화 탐지 시스템</strong> 
   </a>
