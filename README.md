@@ -23,7 +23,7 @@
   <h2 align="left">
     Tech Stack
   </h2>
-  <p align="center">
+  <p align="left">
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" />
     <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=000" />
     <br> 
