@@ -5,7 +5,7 @@
     GitHub Stats
   </h2>
   
-  <div align="center">
+  <div align="left">
     <img
     src="https://github-readme-stats-sigma-five.vercel.app/api?username=lee0806&hide=stars,contribs&include_all_commits=true&count_private=true"
     alt="GitHub stats"
