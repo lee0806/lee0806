@@ -1,8 +1,6 @@
 <div align="center">
-
-
   <h2 align="left">
-    GitHub Stats
+    Stats
   </h2>
   
   <div align="left">
@@ -11,11 +9,11 @@
     alt="GitHub stats"
     height="150"
     />
-  <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lee0806&layout=compact&theme=transparent"
-    alt="Top Languages"
+    <img
+    src="https://mazassumnida.wtf/api/v2/generate_badge?boj=leeseh0806"
+    alt="Solved.ac 티어"
     height="150"
-  />
+    />
   </div>
 
   <br>
@@ -38,8 +36,8 @@
   <br>
 
   <h2 align="left">
-  Featured Projects
-</h2>
+    Featured Projects
+  </h2>
 
 <div align="left">
 
@@ -50,7 +48,7 @@
     </a><br/>
     <sub>CCTV 영상 데이터를 활용해 도로 파손을 탐지하는 AI 모델 개발 - 사용자 정보 제공 서비스</sub><br/>
     <sub>
-      <code>React</code> <code>TypeScript</code> <code>Zustand</code> <code>React Query</code> <code>YOLOv8</code> <code>Python</code> <code>FastAPI</code> <code>Kakao Map</code>
+      <code>React</code> <code>TypeScript</code> <code>Zustand</code> <code>React Query</code> <code>YOLOv8</code> <code>Python</code> <code>FastAPI</code>         <code>Kakao Map</code>
     </sub>
   </p>
 
@@ -94,13 +92,9 @@
   </p>
 
 </div>
-  
-
-
 
   <br>
   <br>
-
   <p align="left">
   <a href="mailto:leeseh0806@gmail.com">
     <img alt="Gmail" src="https://img.shields.io/badge/gmail-EA4335?logo=gmail&logoColor=white">
